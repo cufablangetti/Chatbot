@@ -1,0 +1,958 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8CFC16B428092C52979B03B1CDD9D80',
+    participant: undefined
+  },
+  messageTimestamp: 1720765969,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '760712BCBAC967B96CC3C117AA061AD8',
+    participant: undefined
+  },
+  messageTimestamp: 1720765975,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'promociones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'promociones',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7b486401-513c-4737-a0d9-40afcfdb9923',
+  keyword: 'key_1179c7ab-7a55-42c0-8088-683c84d77092',
+  answer: '🎉 ¡Estas son nuestras promociones actuales!\n' +
+    '- 20% de descuento en vestidos\n' +
+    '- 15% de descuento en camisetas\n' +
+    '- 10% de descuento en pantalones\n' +
+    '\n' +
+    'Escribe *productos* para ver nuestro catálogo.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b45b05d779353d41465d6da617981cdc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'ECAB2605F6544762F8B9AC12C32EF51C',
+    participant: undefined
+  },
+  messageTimestamp: 1720765989,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'productos',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_61cdb4fe-ee20-45bf-9794-dcfb8ef0f2d9',
+  keyword: 'key_8fcb1f73-8ca4-4912-8504-8e6286ef1f2b',
+  answer: '👗 Aquí tienes nuestro catálogo de productos:\n' +
+    '- *1* Vestidos\n' +
+    '- *2* Camisetas\n' +
+    '- *3* Pantalones\n' +
+    '\n' +
+    'Por favor, escribe el número del producto que deseas ver.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0544c02630c45f9974aae19fcbb0b18d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '7586BDC5EC0483E0FB7511563665A68F',
+    participant: undefined
+  },
+  messageTimestamp: 1720765998,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD1A08D25E86720F4B3954DF3AE9A946',
+    participant: undefined
+  },
+  messageTimestamp: 1720766021,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'listo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'listo?',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'AE1F07DF74E96BC18CC87D5829F55685',
+    participant: undefined
+  },
+  messageTimestamp: 1720766032,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '3799AEDC84BB74299AB20CD62C7AB3A3',
+    participant: undefined
+  },
+  messageTimestamp: 1720766044,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'productos',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_61cdb4fe-ee20-45bf-9794-dcfb8ef0f2d9',
+  keyword: 'key_8fcb1f73-8ca4-4912-8504-8e6286ef1f2b',
+  answer: '👗 Aquí tienes nuestro catálogo de productos:\n' +
+    '- *1* Vestidos\n' +
+    '- *2* Camisetas\n' +
+    '- *3* Pantalones\n' +
+    '\n' +
+    'Por favor, escribe el número del producto que deseas ver.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0544c02630c45f9974aae19fcbb0b18d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2DBD729E3F11273469DD727DD20AEEA',
+    participant: undefined
+  },
+  messageTimestamp: 1720766055,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'hola',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '57E98D287604875B449920A3C33C108C',
+    participant: undefined
+  },
+  messageTimestamp: 1720766060,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'horarios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'horarios',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0729c947-9999-4963-b898-34fab00f70e5',
+  keyword: 'key_4f204e64-a43e-4b9c-8f0d-aa77a6d3d970',
+  answer: '🕒 Nuestros horarios de atención son:\n' +
+    '- Lunes a Viernes: 9:00 AM - 6:00 PM\n' +
+    '- Sábado: 10:00 AM - 4:00 PM\n' +
+    '- Domingo: Cerrado\n' +
+    '\n' +
+    'Escribe *productos* para ver nuestro catálogo o *promociones* para ver nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9dd8b685defc68bdc39a14d0723d8453'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '5800EBC1B3C6789CB3823D70A5387414',
+    participant: undefined
+  },
+  messageTimestamp: 1720766071,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '559E70DA8610391F742312D84D10B0D5',
+    participant: undefined
+  },
+  messageTimestamp: 1720766075,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'contacto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'contacto',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0aca64e8-ceba-4989-abb9-f05241985d81',
+  keyword: 'key_2ad2ea5a-1217-4db1-aa00-cfa711bfd52a',
+  answer: '📞 Puedes contactarnos a través de:\n' +
+    '- Teléfono: +123456789\n' +
+    '- Email: tienda@ropa.com\n' +
+    '- WhatsApp: +123456789\n' +
+    '\n' +
+    'Escribe *productos* para ver nuestro catálogo o *promociones* para ver nuestras ofertas.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5f07d407fa7d2eb89d92103e4e634d9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '54F1500B9ACA05F1B75D2EE0E70F3553',
+    participant: undefined
+  },
+  messageTimestamp: 1720766082,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'lito',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'lito',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '870702EA8CCD0FA986A3C2BB001860E9',
+    participant: undefined
+  },
+  messageTimestamp: 1720766096,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'siiii',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'siiii',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'F7B3CB866284ADFB39FCDF6FA9B246AA',
+    participant: undefined
+  },
+  messageTimestamp: 1720766099,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'goddd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'goddd',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '9AE473803515C65FEF3182B61E5AEF10',
+    participant: undefined
+  },
+  messageTimestamp: 1720766104,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'JAJAJAJ R CORTA',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJ R CORTA',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '1266DDC32736A73BE4A3EF5D1604473E',
+    participant: undefined
+  },
+  messageTimestamp: 1720766132,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'chauchis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'chauchis',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '451BE7247A2D670E61B2DE10CD0671C2',
+    participant: undefined
+  },
+  messageTimestamp: 1720766139,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'UYUY',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'UYUY',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '609E264FDC3F9266DE07F1E7B6CD3325',
+    participant: undefined
+  },
+  messageTimestamp: 1720766141,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jjajajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jjajajajaja',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '3DC912D4CFDB87A54CCC20A3015823AF',
+    participant: undefined
+  },
+  messageTimestamp: 1720766151,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'se manda de la nada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'se manda de la nada',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '9EA9CBAB00C8E7D3833533E4B425BE15',
+    participant: undefined
+  },
+  messageTimestamp: 1720766184,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'a',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '0DC253188EF4B1929BE6B88A67789E2F',
+    participant: undefined
+  },
+  messageTimestamp: 1720766192,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'e',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'e',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '051D4D0254252A06AD0C6E9D00D2BF5E',
+    participant: undefined
+  },
+  messageTimestamp: 1720766202,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJAJAJAJAJJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJAJAJAJJA',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '94058228B3ECA38FBC122A254B573641',
+    participant: undefined
+  },
+  messageTimestamp: 1720766204,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'hola',
+  from: '5492616018619'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  keyword: 'key_76aecfdc-64d5-4521-a9f9-289c1fa29191',
+  answer: '🙌 ¡Hola! Bienvenido a *Tienda de Ropa*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9db738b4c57497f100117d18670515fe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_95b799a2-faa8-4ef1-843f-6f83ed372d13',
+  keyword: 'ans_43d4f13b-7a7e-42f9-930e-a1d70fbe3daa',
+  answer: 'Te podemos ayudar con lo siguiente:\n' +
+    '👉 *productos* para ver nuestro catálogo\n' +
+    '👉 *promociones* para ver nuestras ofertas\n' +
+    '👉 *horarios* para conocer nuestros horarios de atención\n' +
+    '👉 *contacto* para saber cómo contactarnos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3374d6fb456f6d8c2a8a553e51dd904e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '42F3F5A9F34CFB88E6E75D0D01FB56FB',
+    participant: undefined
+  },
+  messageTimestamp: 1720766220,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJAJ',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJ',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '7A90B660F9458C0236F30A162A5D5B2E',
+    participant: undefined
+  },
+  messageTimestamp: 1720766222,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'bueno cvau',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'bueno cvau',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4BB261CC96AE564ABF79C71AF6FD9DF',
+    participant: undefined
+  },
+  messageTimestamp: 1720766238,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJAJJAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJJAJA',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: '6134C5231D0ADE8F969FC99399959FCA',
+    participant: undefined
+  },
+  messageTimestamp: 1720766243,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'pero si no vez q se activo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pero si no vez q se activo',
+  from: '5492616018619'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616018619@s.whatsapp.net',
+    fromMe: false,
+    id: 'CBA4BB06CA1E2386928EED0D6B18D8AE',
+    participant: undefined
+  },
+  messageTimestamp: 1720766245,
+  pushName: 'sofi',
+  broadcast: false,
+  message: Message {
+    conversation: 'la webada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'la webada',
+  from: '5492616018619'
+}
